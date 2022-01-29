@@ -1,4 +1,10 @@
-### Hi there 👋
+### Yo 👋
+
+- 🔭 I’m currently working on GovTech
+- 🌱 I’m currently learning Rust
+- 👯 I’m looking to collaborate on games, dev tools
+- 😄 Pronouns: he/him
+
 
 <!--
 **highb/highb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
