@@ -1,7 +1,7 @@
 ### Yo 👋
 
 - 🔭 I’m currently working on GovTech
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Elixir and Rust
 - 👯 I’m looking to collaborate on games, dev tools
 - 😄 Pronouns: he/him
 
