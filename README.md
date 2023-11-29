@@ -1,8 +1,8 @@
 ### Yo 👋
 
 - 🔭 I’m currently working on GovTech
-- 🌱 I’m perpetually learning Clojure, Elixir, Rust, and whatever other languages strike my fancy
-- 👯 I’m looking to collaborate on games, dev tools, art, social networks, fully automated worker co-operatives, dismantling modern capitalism
+- 🌱 I’m perpetually learning Go, Rust, Elixir,  and whatever other languages strike my fancy
+- 👯 I’m looking to collaborate on games, dev tools, art, and social networks
 - 😄 Pronouns: he/him (but I don't identify strongly with a lot of "male" characteristics)
 
 
