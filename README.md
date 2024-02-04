@@ -1,6 +1,6 @@
 ### Yo 👋
 
-- 🔭 I’m currently working on GovTech
+- 🔭 I’m currently working at [Ride with GPS](https://ridewithgps.com/)
 - 🌱 I’m perpetually learning Go, Rust, Elixir,  and whatever other languages strike my fancy
 - 👯 I’m looking to collaborate on games, dev tools, art, and social networks
 - 😄 Pronouns: he/him (but I don't identify strongly with a lot of "male" characteristics)
