@@ -1,8 +1,8 @@
 ### Yo 👋
 
-- 🔭 I’m currently looking for work in software engineering!
+- 🔭 I’m doing software engineering!
 - 🌱 I’m perpetually learning Go, Rust, Elixir, and whatever other languages and technologies strike my fancy
-- 👯 I’m looking to collaborate on games, dev tools, art, and social networks
+- 👯 I’m looking to collaborate on games, dev tools, art, and decentralized software
 - 😄 Pronouns: he/him (but I don't identify strongly with a lot of "male" characteristics)
 
 
