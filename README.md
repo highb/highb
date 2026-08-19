@@ -3,8 +3,7 @@
 - 🔭 I’m doing software engineering!
 - 🌱 I’m perpetually learning Go, Rust, Elixir, and whatever other languages and technologies strike my fancy
 - 👯 I’m looking to collaborate on games, dev tools, art, and decentralized software
-- 😄 Pronouns: he/him (but I don't identify strongly with a lot of "male" characteristics)
-
+- 😄 Pronouns: he/him
 
 <!--
 **highb/highb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
